@@ -1,3 +1,4 @@
+This project has been taken from https://gist.github.com/ebraiz/3be0b62c98c17e76e0df
 # A Simple Calculator
 
 This code implements a simple calculator program in C++ that performs seven different mathematical operations: sine, square, tangent, cosine, natural logarithm, logarithm with base 10, and power. Each function takes floating-point values as parameters.
